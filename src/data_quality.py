@@ -42,3 +42,11 @@ def check_temperature_ranges(df,
             ].tolist()
 
     return invalid_values
+
+
+def remove_empty_columns(df):
+
+    return df.dropna(
+        axis=1,
+        how="all"
+    )
