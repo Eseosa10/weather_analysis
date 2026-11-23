@@ -178,3 +178,13 @@ This project demonstrates:
 - Git Version Control
 - Reproducible Data Pipelines
 ```
+SQL Analysis
+
+Example analyses:
+
+    Warmest federal states
+    Coldest federal states
+    Warmest years in Germany
+    Monthly temperature comparisons
+    States above the German average
+    Temperature trends over time
