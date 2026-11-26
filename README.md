@@ -162,6 +162,14 @@ Output:
 ```text
 data/processed/weather_long.csv
 ```
+---
+
+## Dashboard
+
+The project includes a Power BI dashboard connected to PostgreSQL for interactive temperature analysis.
+
+![Weather Analysis Dashboard](reports/dashboard_weather.png)
+
 
 ---
 
@@ -177,6 +185,7 @@ This project demonstrates:
 - Data Transformation
 - Git Version Control
 - Reproducible Data Pipelines
+- Dashboards with PowerBI
 ```
 SQL Analysis
 
